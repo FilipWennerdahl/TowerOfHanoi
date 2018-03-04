@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RuleManager
+  - InputManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RingToRing
+  - RingToOther
+  - PinTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2096880831
+    locked: 0
+  - name: Board
+    uniqueID: 1315092585
+    locked: 0
+  - name: RingBack
+    uniqueID: 424305017
+    locked: 0
+  - name: Pins
+    uniqueID: 1883879843
+    locked: 0
+  - name: RingFront
+    uniqueID: 583580843
+    locked: 0

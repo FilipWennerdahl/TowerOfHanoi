@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TowerOfHanoi.unity
+  isLoaded: 1
+  isActive: 1
